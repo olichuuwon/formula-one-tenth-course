@@ -1,4 +1,4 @@
-# f1tenth-lab
+# formula-one-tenth-lab
 
 lab 1 - completed on august 9th
 
