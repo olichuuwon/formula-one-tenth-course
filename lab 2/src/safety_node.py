@@ -50,7 +50,6 @@ class Safety(object):
 		self.acker_object.drive.speed = 0.0
 		self.acker_msg.publish(self.acker_object)
 		self.bool_msg.publish(True)
-		print(min(self.ttc_list))
 	# if no brake 
 	else:
 		self.bool_msg.publish(False)
