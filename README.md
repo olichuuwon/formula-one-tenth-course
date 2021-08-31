@@ -10,6 +10,6 @@ lab 2 - completed on august 17th
     
 lab 3 - completed on august 24th
 
-- pid needs to be fine tuned more to avoid collisions
+- pid needs to be fine tuned more to avoid hitting wall at the dead zone
 
         demo - https://youtu.be/XMsT6qDRc0E
