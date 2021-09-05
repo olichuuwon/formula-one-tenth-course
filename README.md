@@ -1,6 +1,6 @@
-# formula-one-tenth-lab
+# formula-one-tenth-course
 
-to be completed end of nov 2021 together with the ntu autonomous racing team
+labs to be completed end of nov 2021 together with the ntu autonomous racing team
 
 lab 1 - completed on august 9th
 
