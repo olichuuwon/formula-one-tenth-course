@@ -1,8 +1,8 @@
 # formula-one-tenth-course
 
-pre requitise course so as to join the ntu f1tenth racing team 
+pre requitise course so as to join the ntu f1tenth autonomous racing team 
 
-to be completed end of nov 2021 together with the ntu autonomous racing team
+to be completed end of nov 2021 together with the ntu f1tenth autonomous racing team
 
 https://f1tenth.org/
 
