@@ -19,6 +19,7 @@ demo - https://youtu.be/9eZQlNeAD_c
 lab 3 - completed on august 24th
 
 - pid needs to be fine tuned more to avoid hitting wall at the dead zone
+- to derive the formula again to double check
 
 demo - https://youtu.be/XMsT6qDRc0E
 
