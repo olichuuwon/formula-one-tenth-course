@@ -1,6 +1,14 @@
 # formula-one-tenth-course
 
-labs to be completed end of nov 2021 together with the ntu autonomous racing team
+self learning course where we submit labs
+
+pre requitise course so as to join the ntu f1tenth racing team 
+
+to be completed end of nov 2021 together with the ntu autonomous racing team
+
+https://f1tenth.org/
+
+https://f1tenth-coursekit.readthedocs.io/en/latest/introduction/overview.html
 
 lab 1 - completed on august 9th
 
