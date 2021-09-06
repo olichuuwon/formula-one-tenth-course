@@ -8,22 +8,22 @@ https://f1tenth.org/
 
 https://f1tenth-coursekit.readthedocs.io/en/latest/introduction/overview.html
 
-lab 1 - completed on august 9th
+## lab 1 - completed on august 9th
 
 - could make use of a class instead
 - lack of filtering lidar ranges data
 
-lab 2 - completed on august 17th
+## lab 2 - completed on august 17th
 
 demo - https://youtu.be/9eZQlNeAD_c
     
-lab 3 - completed on august 24th
+## lab 3 - completed on august 24th
 
 - pid needs to be fine tuned more to avoid hitting wall at the dead zone
 - to derive the formula again to double check
 
 demo - https://youtu.be/XMsT6qDRc0E
 
-lab 4 & race 1 - completed on september 6th
+## lab 4 & race 1 - completed on september 6th
 
 demo - https://youtu.be/14SFOGGOvZ4
