@@ -1,7 +1,5 @@
 # formula-one-tenth-course
 
-self learning course where we submit labs
-
 pre requitise course so as to join the ntu f1tenth racing team 
 
 to be completed end of nov 2021 together with the ntu autonomous racing team
