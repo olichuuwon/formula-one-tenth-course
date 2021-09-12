@@ -11,7 +11,7 @@ https://f1tenth-coursekit.readthedocs.io/en/latest/introduction/overview.html
 ## lab 1 - completed on august 9th
 
 - could make use of a class instead
-- lack of filtering lidar ranges data
+- lack of filtering on lidar ranges data
 - implement custom message
 - practice ros bags
 
