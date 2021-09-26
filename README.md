@@ -30,3 +30,9 @@ demo - https://youtu.be/XMsT6qDRc0E
 ## lab 4 & race 1 - completed on september 6th
 
 demo - https://youtu.be/14SFOGGOvZ4
+
+## lab 9 - completed on september 29th
+
+demo - https://youtu.be/14SFOGGOvZ4
+
+## team based labs in progress
