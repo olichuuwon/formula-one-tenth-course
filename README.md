@@ -33,6 +33,6 @@ demo - https://youtu.be/14SFOGGOvZ4
 
 ## lab 9 - completed on september 29th
 
-demo - https://youtu.be/14SFOGGOvZ4
+- killer robots: war in life
 
 ## team based labs in progress
