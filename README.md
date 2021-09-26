@@ -21,9 +21,9 @@ demo - https://youtu.be/9eZQlNeAD_c
     
 ## lab 3 - completed on august 24th
 
-- pid needs to be fine tuned more to avoid hitting wall at the dead zone
+- fine tuned more to avoid hitting wall at the dead zone
 - to derive the formula again to double check 
-- i think my steering can be better, thus lidar angles chosen needs to be re looked at
+- lidar angles chosen needs to be changed
 
 demo - https://youtu.be/XMsT6qDRc0E
 
