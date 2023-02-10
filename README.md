@@ -4,7 +4,7 @@ pre requitise course so as to join the ntu f1tenth autonomous racing team
 
 this is to be completed end of nov 2021
 
-i would be participating and contributing to the ntu team coming early 2023
+i would be participating and contributing to the ntu team late 2023
 
 https://f1tenth.org/
 
