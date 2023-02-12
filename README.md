@@ -4,7 +4,9 @@ pre requitise course so as to join the ntu f1tenth autonomous racing team
 
 i would be participating and contributing to the ntu team late 2023
 
-labs below has been completed and passed with things that could be improved upon stated
+labs in this repo have all passed
+
+but things that could be improved upon are listed down
 
 https://f1tenth.org/
 
@@ -19,7 +21,7 @@ https://f1tenth-coursekit.readthedocs.io/en/latest/introduction/overview.html
 
 ## lab 2 - completed on august 17th 2021
 
-demo - https://youtu.be/9eZQlNeAD_c
+- demo - https://youtu.be/9eZQlNeAD_c
     
 ## lab 3 - completed on august 24th 2021
 
@@ -27,11 +29,11 @@ demo - https://youtu.be/9eZQlNeAD_c
 - to derive the formula again to double check 
 - lidar angles chosen needs to be changed
 
-demo - https://youtu.be/XMsT6qDRc0E
+- demo - https://youtu.be/XMsT6qDRc0E
 
 ## lab 4 & race 1 - completed on september 6th 2021
 
-demo - https://youtu.be/14SFOGGOvZ4
+- demo - https://youtu.be/14SFOGGOvZ4
 
 ## lab 9 - completed on september 29th 2021
 
